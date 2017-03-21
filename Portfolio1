@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<title>Joe Kausch Fullstack Developer Portfolio</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+	
+	<body>
+		<header class="container"> //nav bar
+			<div class="row">
+				<h1 class="col-sm-4">Joe Kausch</h1>
+				<nav class="col-sm-8 text-right">
+					<p>About</p>
+					<p>Portfolio</p>
+					<p>Contact</p>
+				</nav>
+			</div>
+		</header>
+		
+		<section class="jumbotron"> //Info
+			<div class="container">
+				<div class="row text-center">
+					<h2>Joe Kausch Web Design</h2>
+					<h3>One Stop Web Design Shop!</h3>
+				
+				</div>
+			</div>
+		
+		</section>
+		
+		<section class="container">
+			<div class="row">
+				<figure class="col-sm-6">
+					<img src="http://www.sdcwa.org/sites/default/files/images/conservation/WaterSmartwebsite-screenshot.jpg">
+					<p>Placeholder Site 1</p>
+				</figure>
+				<figure class="col-sm-6">
+					<img src="http://img.coolefriend.com/eguru/box/2012/04/Webshots-Pro.png">
+					<p>No-Name Site 2</p>
+				</figure>
+			</div>
+			
+			<div class="row">
+				<figure class="col-sm-6">
+					<img src="http://www.asm-tech.com/v1/images/images_MM2011/webIMuscat.jpg">
+					<p>Replace This</p>
+				</figure>
+				<figure class="col-sm-6">
+					<img src="http://cdn.designinstruct.com/files/446-portfolio_website_design/portfolio_website_design_13portfolio_of_work_example_jr.jpg">
+					<p>NotReal.com</p>
+				
+				</figure>
+			</div>
+		</section>
+	</body>
+	<footer class="container">
+		<div class="row">
+			<ul class="col-sm-8">
+				<li class="col-sm-1">
+					<a href="https://twitter.com/KLR_TOFU">
+					<i class="fa fa-twitter-square"></i></a>
+				</li>
+				<li>
+					<a href="https://www.linkedin.com/in/joekausch/">
+					<i class="fa fa-linkedin-square"></i></a>
+				</li>
+				<li>
+					<i class="fa fa-github-square"></i>
+				</li>
+			</ul>
+		</div>
+	</footer>
+</html>
